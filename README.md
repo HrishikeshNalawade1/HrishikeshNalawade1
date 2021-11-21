@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HrishikeshNalawade1
 - 👀 I’m interested in learning and exploring new Technology
-- 🌱 I’m currently learning c#,sql,angular
+- 🌱 I’m currently learning & exploring c#,sql,angular
 - 💞️ I’m am working in Benchmark
 - 📫 How to reach me ...hrishikeshnalawade0@gmail.com
 
